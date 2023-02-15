@@ -1,5 +1,5 @@
 @echo off
-b:
+:b
 mkdir %random%
 mkdir %random%
 mkdir %random%
