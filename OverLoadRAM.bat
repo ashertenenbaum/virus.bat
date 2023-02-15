@@ -1,5 +1,5 @@
 @echo off
-a:
+:a
 start 
 start 
 start
